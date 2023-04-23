@@ -7,19 +7,10 @@ Hilesiz rt.jar Kopyala Yedekte Dursun
 -----------------
 
 Launcher Giris;
+sen yapcan ama su alttaki rt lazim
 
 https://cdn.discordapp.com/attachments/1054061342291660871/1092130821726556290/rt.jar
 Burdaki 30mb Olan rtyi Al
-Sonra At o Rtnin Konumuna
-Oyuna Gir
-
-Java Yükleniyor %42 Kısmında Alt+F4 çek
-
-so-x64 deki Rtnin Geri Yüklenmesini Bekle
-
-Yüklenince Hileli Rt İle Değiş Hemen
-
-Oyun Açılınca Pencere Adında Discord Varsa Olmuştur
 --------------------
 Oyuna Giriş
 
